@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C56DcFYJ1fImrLtAnA9+nVJ3mxg/cnuoYGz7BLp+whc0pGMb0OrfiiNpIuv4blKssRlyrIPoFTTelF73MlT7aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\中龍\\Desktop\\影像處理HW1\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\中龍\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
